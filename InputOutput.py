@@ -1,13 +1,3 @@
-'''
-Tyler Bramlett
-CS 3160
-Final Project
-Corsi Study
-Due: 18 DEC 19
-
-InputOutput.py
-'''
-
 import time
 import json
 import random
