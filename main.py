@@ -1,14 +1,3 @@
-'''
-Tyler Bramlett
-CS 3160
-Final Project
-Corsi Study
-Due: 18 DEC 19
-
-Main.py
-This is the main function of the game, and will run the entirety of the project. It will also call LoginRun.py
-'''
-
 # All of my input statements, including the ones that refer to my other files
 import pygame
 import time
