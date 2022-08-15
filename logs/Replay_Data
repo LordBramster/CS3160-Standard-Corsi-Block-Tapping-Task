@@ -1,0 +1,74 @@
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0849B0B0> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 09:53:45 2019
+LAST MOVE: <__main__.Block object at 0x0849B0B0> Current Level: 1 Timestamp: Wed Dec 18 09:53:45 2019
+BLOCK: <__main__.Block object at 0x0849B0B0> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 09:53:47 2019
+BLOCK: <__main__.Block object at 0x0849BDF0> Color: (255, 255, 0, 255) Timestamp: Wed Dec 18 09:53:48 2019
+LAST MOVE: <__main__.Block object at 0x0849BDF0> Current Level: 2 Timestamp: Wed Dec 18 09:53:48 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A7E9FB0> Color: (255, 255, 0, 255) Timestamp: Wed Dec 18 09:54:32 2019
+LAST MOVE: <__main__.Block object at 0x0A7E9FB0> Current Level: 1 Timestamp: Wed Dec 18 09:54:32 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A5C9290> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 10:13:05 2019
+LAST MOVE: <__main__.Block object at 0x0A5C9290> Current Level: 1 Timestamp: Wed Dec 18 10:13:05 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A08A390> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 10:14:35 2019
+LAST MOVE: <__main__.Block object at 0x0A08A390> Current Level: 1 Timestamp: Wed Dec 18 10:14:35 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A95A4D0> Color: (0, 0, 255, 255) Timestamp: Wed Dec 18 10:17:43 2019
+LAST MOVE: <__main__.Block object at 0x0A95A4D0> Current Level: 1 Timestamp: Wed Dec 18 10:17:43 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A44A490> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 10:24:09 2019
+LAST MOVE: <__main__.Block object at 0x0A44A490> Current Level: 1 Timestamp: Wed Dec 18 10:24:09 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0ACEA710> Color: (255, 0, 0, 255) Timestamp: Wed Dec 18 10:28:11 2019
+LAST MOVE: <__main__.Block object at 0x0ACEA710> Current Level: 1 Timestamp: Wed Dec 18 10:28:11 2019
+BLOCK: <__main__.Block object at 0x0ACEA710> Color: (255, 0, 0, 255) Timestamp: Wed Dec 18 10:28:14 2019
+BLOCK: <__main__.Block object at 0x0ACEA510> Color: (0, 0, 255, 255) Timestamp: Wed Dec 18 10:28:14 2019
+LAST MOVE: <__main__.Block object at 0x0ACEA510> Current Level: 2 Timestamp: Wed Dec 18 10:28:14 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x09E9A490> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 10:44:53 2019
+LAST MOVE: <__main__.Block object at 0x09E9A490> Current Level: 1 Timestamp: Wed Dec 18 10:44:53 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A96A510> Color: (0, 0, 255, 255) Timestamp: Wed Dec 18 10:48:17 2019
+LAST MOVE: <__main__.Block object at 0x0A96A510> Current Level: 1 Timestamp: Wed Dec 18 10:48:17 2019
+BLOCK: <__main__.Block object at 0x0A96A510> Color: (0, 0, 255, 255) Timestamp: Wed Dec 18 10:48:19 2019
+BLOCK: <__main__.Block object at 0x0A96A510> Color: (0, 0, 255, 255) Timestamp: Wed Dec 18 10:48:19 2019
+LAST MOVE: <__main__.Block object at 0x0A96A510> Current Level: 2 Timestamp: Wed Dec 18 10:48:19 2019
+
+PLAYER USER: tyler
+
+PLAYER USER: tyler
+
+PLAYER USER: charles
+
+PLAYER USER: terry
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A6BA290> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 11:21:22 2019
+LAST MOVE: <__main__.Block object at 0x0A6BA290> Current Level: 1 Timestamp: Wed Dec 18 11:21:22 2019
+BLOCK: <__main__.Block object at 0x0A6BA290> Color: (0, 255, 0, 255) Timestamp: Wed Dec 18 11:21:24 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A110690> Color: (0, 0, 255, 255) Timestamp: Wed Dec 18 11:44:32 2019
+LAST MOVE: <__main__.Block object at 0x0A110690> Current Level: 1 Timestamp: Wed Dec 18 11:44:32 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A6CB5B0> Color: (255, 0, 0, 255) Timestamp: Wed Dec 18 11:55:47 2019
+LAST MOVE: <__main__.Block object at 0x0A6CB5B0> Current Level: 1 Timestamp: Wed Dec 18 11:55:47 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x09FBBF30> Color: (255, 0, 0, 255) Timestamp: Wed Dec 18 16:47:22 2019
+LAST MOVE: <__main__.Block object at 0x09FBBF30> Current Level: 1 Timestamp: Wed Dec 18 16:47:22 2019
+BLOCK: <__main__.Block object at 0x09FBBF30> Color: (255, 0, 0, 255) Timestamp: Wed Dec 18 16:47:25 2019
+
+PLAYER USER: tyler
+BLOCK: <__main__.Block object at 0x0A4EB610> Color: (0, 0, 255, 255) Timestamp: Wed Dec 18 16:53:21 2019
+LAST MOVE: <__main__.Block object at 0x0A4EB610> Current Level: 1 Timestamp: Wed Dec 18 16:53:21 2019
