@@ -1,14 +1,3 @@
-'''
-Tyler Bramlett
-CS 3160
-Final Project
-Corsi Study
-Due: 18 DEC 19
-
-LoginRun.py
-This file will run all the Tkinter module stuff for the login and signup screen(s)
-'''
-
 # Import statements
 from tkinter import *
 import time
