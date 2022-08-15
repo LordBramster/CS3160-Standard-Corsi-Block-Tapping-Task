@@ -1,0 +1,16 @@
+{
+  "players": {
+    "12731239": {
+      "username": "john",
+      "password": "1234test!"
+    },
+    "36178136": {
+      "username": "anna",
+      "password": "!5678test"
+    },
+    "45638221": {
+      "username": "barry",
+      "password": "abcdtest!"
+    }
+  }
+}
