@@ -1,2 +1,2 @@
-# Corsi Study
-Standard Corsi Task to assess Short-Term/Visuospatial Working Memory, of autistic subjects. 
+# Corsi Study - Visuospatial Working Memory
+**CS3160 - Final Project (Standard Corsi Task)**
