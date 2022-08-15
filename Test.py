@@ -1,12 +1,3 @@
-'''
-Tyler Bramlett
-CS 3160
-Final Project
-Corsi Study
-Due: 18 DEC 19
-
-Test.py
-'''
 import random
 import re
 from collections import Counter
