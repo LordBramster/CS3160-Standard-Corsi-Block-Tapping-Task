@@ -14,6 +14,7 @@ Requirements for completion:
 - *Logs must be generated from all user actions: including block-space, block-color, block-sequence, and more.*
 - *The test must support user login, individual passwords and usernames.*
 - *Scoreboards and a working score system for all system users, based on succeeded block-tests.*
+- *All stored data (login, scores, etc) must be encrypted. Encryption suite is up to student discretion.*
 
 <br>
 <img width="40%" src="assets/img/blocktest.jpg">
